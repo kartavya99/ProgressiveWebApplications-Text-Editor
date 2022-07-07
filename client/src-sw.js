@@ -39,4 +39,4 @@ registerRoute(({ request }) => {
       ],
     });
 });
-registerRoute();
+// registerRoute();

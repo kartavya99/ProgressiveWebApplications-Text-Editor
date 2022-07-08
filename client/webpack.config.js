@@ -27,7 +27,7 @@ module.exports = () => {
       // Injects our custom service worker
       new InjectManifest({
         swSrc: "./src-sw.js",
-        swDest: "src-sw.js,",
+        swDest: "src-sw.js",
       }),
 
       // Creates a manifest.json file.
@@ -68,7 +68,7 @@ module.exports = () => {
             options: {
               presets: ["@babel/preset-env"],
               plugins: [
-                "@babel/plugins-proposal-object-rest-spread",
+                "@babel/plugin-proposal-object-rest-spread",
                 "@babel/transform-runtime",
               ],
             },

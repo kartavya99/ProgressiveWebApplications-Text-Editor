@@ -17,9 +17,7 @@ Visit the deployed application where you will be presented with a code/text edit
 - use the following link to open the application
 - The application will run on any browser.
 
-# live application
-
-[Text Editor]()
+# live application [Text Editor](https://pwatexteditorks.herokuapp.com/)
 
 # Below are the sample pages of command line application
 

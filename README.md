@@ -33,6 +33,14 @@ Visit the deployed application where you will be presented with a code/text edit
 
 <img src = "./images/indexedb.png" width ="400">
 
+## offline mode
+
+<img src = "./images/offline.png" width ="400">
+
+## info saveed locally
+
+<img src = "./images/offlinetext.png" width ="400">
+
 # Features and Technologies uses
 
 - JavaScript
